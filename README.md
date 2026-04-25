@@ -12,8 +12,7 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 
 | Room | Difficulty | Category | WriteUp |
 |---|---|---|---|
-
-*Coming soon*
+| LockDown | Medium | AI Security (Blue Team) | [Medium](https://medium.com/@tamerlan-shabanov/lockdown-1ef8dd0ddcf9)
 
 ---
 
