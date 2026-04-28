@@ -7,6 +7,7 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | Alert | Severity | Verdict | WriteUp |
 |---|---|---|---|
 | SOC114 - Malicious Attachment Detected - Phishing Alert | High | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc114-malicious-attachment-detected-phishing-alert-eventid-45-investigation-11a0ea13a28f) |
+| SOC127 - SQL Injection Detected - Web Attack Alert | High | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc127-sql-injection-detected-web-attack-eventid-235-764e898560bd)
 
 ## TryHackMe — Labs
 
