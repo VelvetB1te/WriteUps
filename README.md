@@ -18,6 +18,7 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | Carnage | Medium | Network Traffic Analysis | [Medium](https://medium.com/@tamerlan-shabanov/carnage-ff5093483fb2)
 | Benign | Medium | Splunk Investigations | [Medium](https://medium.com/@tamerlan-shabanov/benign-write-up-4ef7d2acb2e2)
 | PS Eclipse | Medium | Splunk Ransomware Investigation | [Medium](https://tamerlan-shabanov.medium.com/ps-eclipse-write-up-7997a7984f93)
+| Investigating with Splunk | Medium | Splunk Investigations | [Medium](https://medium.com/@tamerlan-shabanov/investigating-with-splunk-write-up-d0bb8cbb8c95)
 ---
 
 *Written by [Tamerlan Shabanov](https://www.linkedin.com/in/tamerlan-shabanov-9b1ab1166)*
