@@ -9,7 +9,8 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | SOC114 - Malicious Attachment Detected - Phishing Alert | High | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc114-malicious-attachment-detected-phishing-alert-eventid-45-investigation-11a0ea13a28f) |
 | SOC127 - SQL Injection Detected - Web Attack Alert | High | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc127-sql-injection-detected-web-attack-eventid-235-764e898560bd)
 | SOC336 - Windows OLE Zero-Click - Malware | Critical | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc336-windows-ole-zero-click-malware-eventid-314-investigation-e860e2183836)
-|  SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing | Critical | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-eventid-316-8d83bfd4400a)
+| SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing | Critical | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-eventid-316-8d83bfd4400a)
+| SOC335 — CVE-2024–49138 Exploitation Detected | Medium | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc335-cve-2024-49138-exploitation-detected-eventid-313-4bc19f5fdbd1)
 
 ## TryHackMe — Labs
 
