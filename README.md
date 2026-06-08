@@ -23,6 +23,7 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | Investigating with Splunk | Medium | Splunk Investigations | [Medium](https://medium.com/@tamerlan-shabanov/investigating-with-splunk-write-up-d0bb8cbb8c95)
 | TShark Challenge I: Teamwork | Easy | Network Traffic Analysis | [Medium](https://medium.com/@tamerlan-shabanov/tshark-challenge-i-write-up-79a674c2ce5c)
 | TShark Challenge II: Directory | Easy | Network Traffic Analysis | [Medium](https://medium.com/@tamerlan-shabanov/tshark-challenge-ii-directory-write-up-bb98bb24acd3)
+| Shadow Trace | Easy | Malware Analysis | [Medium](https://tamerlan-shabanov.medium.com/shadow-trace-write-up-d474c565e6c0)
 ---
 
 *Written by [Tamerlan Shabanov](https://www.linkedin.com/in/tamerlan-shabanov-9b1ab1166)*
