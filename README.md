@@ -25,6 +25,13 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | TShark Challenge II: Directory | Easy | Network Traffic Analysis | [Medium](https://medium.com/@tamerlan-shabanov/tshark-challenge-ii-directory-write-up-bb98bb24acd3)
 | Shadow Trace | Easy | Malware Analysis | [Medium](https://tamerlan-shabanov.medium.com/shadow-trace-write-up-d474c565e6c0)
 | ItsyBitsy | Medium | Elastic Kibana Investigation | [Medium](https://medium.com/@tamerlan-shabanov/itsybitsy-write-up-698edd3eca28)
+
+## CyberDefenders - Labs
+
+| Lab | Difficulty | Category | WriteUP |
+|---|---|---|---|
+| JetBrains | Easy | Network Forensics | [Medium](https://medium.com/@tamerlan-shabanov/jetbrains-write-up-a55804a57e79)
+
 ---
 
 *Written by [Tamerlan Shabanov](https://www.linkedin.com/in/tamerlan-shabanov-9b1ab1166)*
