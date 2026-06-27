@@ -11,6 +11,7 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | SOC336 - Windows OLE Zero-Click - Malware | Critical | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc336-windows-ole-zero-click-malware-eventid-314-investigation-e860e2183836)
 | SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing | Critical | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-eventid-316-8d83bfd4400a)
 | SOC335 — CVE-2024–49138 Exploitation Detected | Medium | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc335-cve-2024-49138-exploitation-detected-eventid-313-4bc19f5fdbd1)
+| SOC202 — FakeGPT Malicious Chrome Extension | High | True Positive | [Medium](https://tamerlan-shabanov.medium.com/soc202-fakegpt-malicious-chrome-extension-eventid-153-506162568fa1)
 
 ## TryHackMe — Labs
 
@@ -26,7 +27,7 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | Shadow Trace | Easy | Malware Analysis | [Medium](https://tamerlan-shabanov.medium.com/shadow-trace-write-up-d474c565e6c0)
 | ItsyBitsy | Medium | Elastic Kibana Investigation | [Medium](https://medium.com/@tamerlan-shabanov/itsybitsy-write-up-698edd3eca28)
 
-## CyberDefenders - Labs
+## CyberDefenders — Labs
 
 | Lab | Difficulty | Category | WriteUP |
 |---|---|---|---|
