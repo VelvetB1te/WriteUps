@@ -33,6 +33,12 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 |---|---|---|---|
 | JetBrains | Easy | Network Forensics | [Medium](https://medium.com/@tamerlan-shabanov/jetbrains-write-up-a55804a57e79)
 
+## BlueTeamLabsOnline
+
+| Lab | Difficulty | Category | WriteUp|
+| --- | --- | --- | --- |
+| The Walking Packets | Medium | Network Forensics | [Medium](https://medium.com/@tamerlan-shabanov/the-walking-packets-write-up-d6202365ee7b)
+
 ---
 
 *Written by [Tamerlan Shabanov](https://www.linkedin.com/in/tamerlan-shabanov-9b1ab1166)*
