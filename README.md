@@ -39,6 +39,7 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | --- | --- | --- | --- |
 | The Walking Packets | Medium | Network Forensics | [Medium](https://medium.com/@tamerlan-shabanov/the-walking-packets-write-up-d6202365ee7b)
 | Fungames | Easy | Network Forensics | [Medium](https://medium.com/@tamerlan-shabanov/fungames-write-up-fdb596fe0674)
+| Steam | Medium | Digital Forensics | [Medium](https://medium.com/@tamerlan-shabanov/steam-write-up-3b0cab4f59ed)
 ---
 
 *Written by [Tamerlan Shabanov](https://www.linkedin.com/in/tamerlan-shabanov-9b1ab1166)*
