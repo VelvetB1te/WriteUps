@@ -12,6 +12,7 @@ A collection of SOC alert investigations and cybersecurity lab writeups.
 | SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing | Critical | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-eventid-316-8d83bfd4400a)
 | SOC335 — CVE-2024–49138 Exploitation Detected | Medium | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc335-cve-2024-49138-exploitation-detected-eventid-313-4bc19f5fdbd1)
 | SOC202 — FakeGPT Malicious Chrome Extension | High | True Positive | [Medium](https://tamerlan-shabanov.medium.com/soc202-fakegpt-malicious-chrome-extension-eventid-153-506162568fa1)
+| SOC274 — Palo Alto Networks PAN-OS Command Injection (CVE-2024–3400) | Critical | True Positive | [Medium](https://medium.com/@tamerlan-shabanov/soc274-palo-alto-networks-pan-os-command-injection-cve-2024-3400-eventid-249-e07ea0dcdd00)
 
 ## TryHackMe — Labs
 
